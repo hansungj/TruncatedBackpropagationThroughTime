@@ -1,5 +1,7 @@
 # TruncatedBackpropagationThroughTime
  Implementation of TBPTT in Pytorch
+ 
+https://github.com/hansungj/TruncatedBackpropagationThroughTime/blob/master/tbtpp.jpg
 
  This is an implementation of TBPTT for n-layer LSTM network 
 
